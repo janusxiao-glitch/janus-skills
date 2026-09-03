@@ -1,0 +1,5 @@
+interface:
+  display_name: "写实小人人物重绘"
+  short_description: "将人物照片重绘为保留原场景的写实大头小身子效果"
+  default_prompt: "Use $chibi-realistic-miniature-character to turn this person photo into a photorealistic miniature-body character while preserving the face, clothing, pose, props, background, composition, and lighting."
+
